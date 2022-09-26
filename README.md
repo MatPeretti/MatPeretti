@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 
 
 - 🌱 Estudando HTML, CSS e JavaScript
 <div align="center">
