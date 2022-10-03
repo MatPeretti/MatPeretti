@@ -3,7 +3,7 @@
 - 🌱 Estudando HTML, CSS e JavaScript
 <div align="center">
   <a href="https://github.com/MatPeretti">
-  <img width="42%" height="165em" src="https://github-readme-stats.vercel.app/api?username=MatPeretti&show_icons=true&theme=radical"/>
+  <img width="42%" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatPeretti&show_icons=true&theme=radical"/>
   <img width="50%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatPeretti&layout=compact&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
