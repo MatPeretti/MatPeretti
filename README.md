@@ -1,7 +1,7 @@
 ### Olá! 
 
 - 🌱 Estudando HTML, CSS e JavaScript
-<div align="center">
+<div style="display: flex; flex-direction: row;">
   <a href="https://github.com/MatPeretti">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=MatPeretti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatPeretti&layout=compact&langs_count=7&theme=synthwave"/>
