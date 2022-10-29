@@ -1,6 +1,6 @@
 ### Olá! 
 
-:books: Estudante de Sistemas de Informação
+:books: Estudante de Sistemas de Informação <br>
 :rocket: Atualmente focado em HTML, CSS e JavaScript
 <div align="center">
   <a href="https://github.com/MatPeretti">
