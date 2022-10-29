@@ -1,6 +1,7 @@
 ### Olá! 
 
-- :technologist: Estudando HTML, CSS e JavaScript.
+:books: Estudante de Sistemas de Informação
+:rocket: Atualmente focado em HTML, CSS e JavaScript
 <div align="center">
   <a href="https://github.com/MatPeretti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatPeretti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
