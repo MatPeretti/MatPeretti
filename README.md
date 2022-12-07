@@ -1,7 +1,8 @@
-### Olá! 
+### Hello! :wave:	 
 
--  :books: Estudante de Sistemas de Informação <br>
--  :rocket: Atualmente focado em HTML, CSS e JavaScript
+-  :rocket: Computer Information Systems Student <br>
+-  :star: Learning Jquery 
+
 <div align="center">
   <a href="https://github.com/MatPeretti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatPeretti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
