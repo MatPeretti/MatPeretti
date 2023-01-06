@@ -1,7 +1,6 @@
 ### Hello! :wave:	 
 
 -  :rocket: Computer Information Systems Student <br>
--  :star: Learning Node.js 
 
 <div align="center">
   <a href="https://github.com/MatPeretti">
