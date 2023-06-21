@@ -1,6 +1,8 @@
-# Hello :wave:
+# Hey there :wave:
 
-**` Back-end Developer `**
+**` Back-end developer `**
+
+I am Matheus, a dedicated System Information student with a strong passion for back-end development. I am currently learning Java and Spring Boot while also having some experience in front-end technologies such as HTML, CSS, and JavaScript. Currently, I am gaining valuable experience through an internship where I provide Level 2 Helpdesk support with a focus on application troubleshooting. With a keen eye for detail and a drive to continuously learn and improve, I am committed to contributing to impactful projects and driving innovation in the field of software development
 
 ---
 
@@ -15,7 +17,8 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br />
   
-  ---
+#
+
 <div> 
   <a href="https://www.linkedin.com/in/matheus-peretti-silva-729013237/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
