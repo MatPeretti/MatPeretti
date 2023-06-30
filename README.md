@@ -2,7 +2,7 @@
 
 **` Back-end developer `**
 
-I am Matheus, a dedicated System Information student with a strong passion for back-end development. I am currently learning Java and Spring Boot while also having some experience in front-end technologies such as HTML, CSS, and JavaScript. Currently, I am gaining valuable experience through an internship where I provide Level 2 Helpdesk support with a focus on application troubleshooting. With a keen eye for detail and a drive to continuously learn and improve, I am committed to contributing to impactful projects and driving innovation in the field of software development
+I am Matheus, a  System Information student with a strong passion for back-end development. I am currently learning Java and Spring Boot while also having some experience in front-end technologies such as HTML, CSS, and JavaScript. Currently, I am gaining valuable experience through an internship where I provide Level 2 Helpdesk support with a focus on application troubleshooting. With a keen eye for detail and a drive to continuously learn and improve, I am committed to contributing to impactful projects and driving innovation in the field of software development.
 
 ---
 
