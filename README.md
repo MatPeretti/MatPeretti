@@ -24,6 +24,12 @@ I am Matheus, a  System Information student with a strong passion for back-end d
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusp2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-  ![snake gif](https://github.com/MatPeretti/MatPeretti/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatPeretti&show_icons=true&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatPeretti&layout=compact&theme=vision-friendly-dark"/>
+</p>
+
 
